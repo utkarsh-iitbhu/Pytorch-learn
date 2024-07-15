@@ -1,0 +1,43 @@
+1. Class and boject
+2. Constructor
+3. Decorators
+4. Setters and getters
+5. Inheritance 
+6. Access modifiers
+7. Static methods
+8. Instance vs Class variables
+9. Class Methods
+10. Class methods as Alternative constructors
+11. dir, __dict__, help method
+12. super keyword
+13. Magic/Dunder functions
+14. Method Overridding
+15. Operator Overloading
+16. Single Inheritance
+17. Multiple Inheritance
+18. Method Resolution Order
+19. Multi-level Inheritance
+20. Hierarchal/Hybrid Inheritance
+
+Abstract Classes and Methods: Learn about creating abstract classes and methods using the abc module to enforce method implementation in subclasses.
+Interfaces: Understand the concept of interfaces and how they can be mimicked in Python.
+Polymorphism: Explore how polymorphism allows objects of different classes to be treated as objects of a common superclass.
+Encapsulation: Delve deeper into encapsulation and how to use private and protected members to restrict access to internal data.
+Design Patterns: Study common design patterns (Singleton, Factory, Observer, etc.) and how they are implemented in Python.
+Composition: Learn how composition allows you to build complex objects using other objects.
+Aggregation: Understand aggregation and how it differs from composition in OOP.
+Duck Typing: Explore Python’s dynamic nature and how duck typing fits into OOP.
+Type Hinting and Annotations: Use type hints and annotations to make your code more readable and help with static analysis tools.
+Metaclasses: Learn about metaclasses and how they can be used to control class creation.
+Mixins: Understand mixins and how they can be used to add functionality to classes.
+Property Decorators: Study property decorators in detail to manage attribute access in a clean and efficient way.
+Custom Exceptions: Learn how to create and use custom exceptions to handle errors gracefully.
+Context Managers and the with Statement: Understand how to manage resources using context managers and the with statement.
+Reflection and Introspection: Explore reflection and introspection to examine classes and objects at runtime.
+Serialization: Learn how to serialize and deserialize objects using pickle, json, and other libraries.
+Persistent Objects: Study techniques for making objects persistent, such as object-relational mappers (ORMs).
+Unit Testing OOP Code: Learn how to unit test your OOP code using unittest, pytest, or other testing frameworks.
+SOLID Principles: Understand the SOLID principles (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) for designing robust and maintainable software.
+Dependency Injection: Study the concept of dependency injection and how it can be used to make your code more modular and testable.
+Memory Management: Understand how memory management works in Python and how it affects object-oriented programming.
+Garbage Collection: Learn about Python's garbage collection mechanism and how it handles object lifecycle management.
